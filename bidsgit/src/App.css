@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.main-heading{
+  text-align: left;
+}
+
+.first-row{
+  display: flex;
+  gap: 35px; 
+  justify-content: center;
+  padding-top: 25px;
+}
+
+button{
+  width: 150px;
+  height: 50px;
+  background-color: rgba(247, 223, 6, 0.514);
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: medium;
+  transition: border-color 0.6s ease;
+  border-radius: 10px;
+}
+
+button:hover{
+  cursor: pointer;
+  border-color: rgb(255, 30, 0);
+  
+  
+}
+
+.footer-credit{
+  font-weight: 400;
+  font-size: 30px;
+  display: flex;
+  justify-content: right;
+  /* padding-top: 2%; */
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  text-decoration: underline;
+  text-decoration-color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+.bids{
+  
+  background-color: transparent;
+  border-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 2.5%;
+  border-style: groove;
+  
+}
+
+.final-row{
+  display: flex;
+  gap: 35px; 
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.Clear{
+  width: 300px;
+}
+
+.Clear:hover{
+  border-color: rgb(16, 83, 16) !important;
+}
+
+.CMS{
+  width: 300px;
+}
+
+.complete-page{
+  
+  background-image: url(./../public/back.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
+  background-color: rgba(14, 13, 13, 0.5) !important;
+}

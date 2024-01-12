@@ -1,0 +1,19 @@
+Hey,
+I am a seasoned developer with over 7 years of experience, specializing in web development including payment gateway integration for a variety of platforms. 
+My expertise includes seamless integration with popular gateways like PayPal, Stripe, and Square. 
+Adhering to the highest security standards, I prioritize the confidentiality and integrity of payment data. 
+Leveraging my proficiency in JavaScript, PHP, Python, and LARAVEL. 
+My commitment to delivering a high-quality, secure, and user-friendly payment system. 
+
+You can check my past work here: 
+
+https://mabbly.com 
+https://sunkitts.com 
+https://travelproductions.film 
+https://www.brinkcoin.com
+
+I think I am the ideal candidate for this project. 
+I look forward to the opportunity to discuss the details further and contribute to the success of your project.
+
+Best Regards,
+Muhammad A.
